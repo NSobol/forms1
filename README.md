@@ -2,6 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/sb4wc8yf87uglpcw?svg=true)](https://ci.appveyor.com/project/NSobol/forms1)
 
+https://nsobol.github.io/forms1/
+
 #### Легенда
 
 Есть замечательный фреймворк Bootstrap, в котором реализовано достаточно много интересных виджетов с использованием jQuery. Но, как говорят современные и модные программисты, "jQuery не нужен", поэтому вам нужно реализовать такой же виджет на чистом JS.
