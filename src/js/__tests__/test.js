@@ -2,7 +2,7 @@
  * @jest-environment jsdom
  */
 
-import Popover from '../Popover';
+import Popover from '../POPOVER';
 
 test('При клике на элемент с классом "js-popover" должно показываться окно с соответствующим текстом', () => {
   const popover = new Popover();
