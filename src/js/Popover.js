@@ -28,6 +28,7 @@ export default class Popover {
         this.popover.classList.add('_hide');
         this.insertText();
         this.positionsElement();
+        this.popover.classList.remove('_hide');
       }
     });
   }
